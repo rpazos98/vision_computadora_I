@@ -7,3 +7,5 @@ jupyter
 imbalanced-learn
 opencv-python
 scikit-image
+imagehash 
+pillow
